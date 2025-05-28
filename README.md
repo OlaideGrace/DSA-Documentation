@@ -18,6 +18,14 @@ Th primary source of Data used here is Data Sale.csv and this is an open source 
   - For Data cleaning
     1. Data Manipulation
     2. Data Munching
+        
 - SQL Server (For Querying and Analysis)
 - Power BI (For creating a report)
 - MS Power Point (For Presentation)
+
+- ### Data Cleaning and Preparation
+
+- In the intial  phase of the Data cleaning
+- 1. Data loading and Inspection
+  2.  Handling missing variables
+  3.  Data cleaning and formatting
